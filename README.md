@@ -2,9 +2,9 @@
 
 본 프로젝트는 코틀린 학습을 위한 강의자료 및 문서를 번역하고자 시작하였습니다.
 
-기본적으로 코틀린의 기본 문서(https://kotlinlang.org/docs/reference/)를 기반으로 작성되었으며, 2020년 12월부터 2021년 1월 사이의 문서를 기준으로 진행하였습니다.
+기본적으로 코틀린의 공식 문서인 [Kotlin Reference](https://kotlinlang.org/docs/reference/)를 기반으로 작성되었으며, 2020년 12월부터 2021년 1월 사이의 문서를 기준으로 진행하였습니다.
 
-(기본 문서의 수정 사항은 https://github.com/JetBrains/kotlin-web-site/tree/master/pages/docs/reference를 참고하시면 됩니다.)
+(기본 문서의 수정 사항은 [해당 문서](https://github.com/JetBrains/kotlin-web-site/tree/master/pages/docs/reference)를 참고하시면 됩니다.)
 
 
 
